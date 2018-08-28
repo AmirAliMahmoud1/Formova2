@@ -160,4 +160,4 @@ con.query(`SELECT * FROM blockList WHERE id = '${message.author.id}'`, (err, row
 
 
 
-client.login("NDc4NzAyNzYyMjg1MjAzNDY3.DlOi0Q.frb8SL9cA67HLqvPK7Xl7fH-qmI");
+client.login("token");
